@@ -6,7 +6,7 @@ public class DefaultCountingOutRhymer {
 
     private static final int MAX_NUMBERS = 12;
 
-    private int[] numbers = new int[MAX_NUMBERS];
+    private final int[] numbers = new int[MAX_NUMBERS];
 
     public int total = EMPTY_VALUE;
 
