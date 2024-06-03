@@ -7,7 +7,7 @@ public class IntLinkedList {
 
     private static final int EMPTY_VALUE = -1;
     private Node last;
-    private int i;
+    private int i; // TODO: This variable is not used. Consider removing it.
 
     /**
      * Pushes an integer onto the end of the linked list.
