@@ -1,0 +1,7 @@
+##IGNORES target and idea catalogs
+.idea/
+target/
+
+##ignores class files and log files
+*.class
+*.log
